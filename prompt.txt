@@ -1,0 +1,11 @@
+ultrathink
+
+In output/report you will find equity research reports you will find LLM generated reports from various providers
+
+In output/evaluation you will find the LLM evaluations (using different judges) for these reports
+
+I need you to prepare a detailed analyses (with excerpts from the actual reports) to analyse the following:
+
+Why do LLM reports perform relatively worse for coherence and depth relative to reports from professional analysts?
+
+Showcase any interesting observations you can find
